@@ -15,7 +15,7 @@ To run and edit the files smoothly, you should install:
 
 - Download & Install VSCode.
 - Install the following useful extensions:
-  - **Live Server** (by Ritwick Dey): Auto-refreshes HTML in the browser.
+  - **Live Server** : Auto-refreshes HTML in the browser.
   - **Prettier**: For consistent code formatting.
   - **JavaScript (ES6) code snippets**: To speed up JS coding.
 
