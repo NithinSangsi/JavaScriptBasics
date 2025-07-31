@@ -1,0 +1,203 @@
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:larger;
+    font-style: normal;
+} */
+/* COUNTER PROGRAM */
+/* #countlabel{
+                display: block;
+                text-align: center;
+                font-size: 10em;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            #btncontainer{
+                text-align: center;
+            }
+            .buttons{
+                padding: 10px 20px;
+                font-size: 1.5em;
+                color: white;
+                background-color: rgba(63, 15, 194, 0.905);
+                border-radius: 5px;
+                cursor: pointer;
+                transition: background-color 0.255;
+            }
+            .buttons:hover{
+                background-color: blue;
+            } */
+/* RANDOM NUMBER GENERATING ROLL */
+/* body{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align:center;
+    }
+    #mybtn{
+        font-size: 3em;
+        padding: 5px 25px;
+        border-radius: 5px;
+    }
+     #mylabel{      1 ROLL
+        font-size: 3em;
+    } 
+    .mylabels{       3 ROLLS 
+        font-size: 3em;
+    } */
+/* #submit{
+            font-size: 1em;
+        } */
+/* TEMPERTATURE CONVERSION PROGRAM */
+/* body{
+                    font-family: Arial, Helvetica, sans-serif;
+                    background-color: hsl(0, 0%, 95%);
+                }
+                h1{
+                    color:rgb(154, 215, 232);
+                }
+                form{
+                    background-color: hsl(0, 0%, 100%);
+                    text-align: center;
+                    max-width: 350px;
+                    margin: auto;
+                    padding:25px;
+                    border-radius: 4px;
+                    box-shadow: 5px 5px 15px rgba(152, 151, 151, 0.137);
+                }
+                #textbox{
+                    width: 50%;
+                    text-align: center;
+                    font-size: 2em;
+                    border: 2px solid hsl(0, 0%, 95%);
+                    border-radius: 4px;
+                    margin-bottom: 15px;
+                }
+                label{
+                    font-size: 1.5em;
+                    font-weight: bold;
+                }
+                button{
+                    margin-top: 15px;
+                    background: hsl(0, 75%, 64%);
+                    font-size: 1.5em;
+                    border:none;
+                    border-radius: 5px;
+                    color:rgb(238, 236, 236);
+                    padding: 10px 15px;
+                    cursor: pointer;
+                }
+                button:hover{
+                    background-color: hsl(0, 86%, 48%);
+                }
+                #result{
+                    font-weight: bold;
+                    font-size: 1.75em;
+                } */
+/* DICE ROLLER PROBLEM */
+/* #container{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+font-weight: bold;
+}
+button{
+    font-size: 1rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: hsl(210, 100%, 50%);
+    color: white;
+    font-weight: bold;
+    cursor: pointer; 
+}
+button:hover{
+    background-color:hsl(210, 100%, 60%) ;
+}
+button:active{
+    background-color:hsl(210, 37%, 45%);
+}
+input{
+    font-size: 2rem;
+    width:150px;
+    text-align: center;
+    font-weight: bold;
+}
+#diceresult{
+    margin: 25px;
+}
+#diceimage img{
+    width: 150px;
+    margin: 5px;
+} */
+/* START OF INDEX1.JS */
+/* body h1{ */
+    /* display: flex;  */
+          /* justify-content: center; */
+    /* align-items: center; / */
+          /* text-align: center; */
+/* }
+body{
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+    margin: 0;
+    height: 100vh;
+    padding: 10px 20px;
+    background-color:hsl(0,0%,60%);
+    text-align: center;
+} 
+#cal{
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(36, 32, 32);
+    border-radius: 15px;
+    max-width: 500px;
+    overflow: hidden;
+}
+p.name{
+    font-size:1.5rem;
+    color: rgb(71, 235, 11);
+    text-align: center;
+    padding: 2px;
+    margin: 0;
+    background-color: hsl(0, 0%, 20%);
+
+}
+#display{
+  width: 100%;
+  padding: 20px;
+  font-size: 5rem;
+  text-align: left;
+  border: none;
+  color: white;
+  background-color: hsl(0, 0%, 20%);
+}
+#keys{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    padding: 25px;
+}
+button {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  border: none;
+  background-color: rgb(90, 105, 105);
+  color: white;
+  font-size: 3rem;
+  cursor: pointer;
+}
+button:hover{
+    background-color:hsl(0,0%,65%);
+}
+button:active{
+    background-color:hsl(0,0%,45%);
+}
+.oper{
+    background-color: orange;
+}
+.oper:hover{
+    background-color: hsl(35, 100%, 65%);
+}
+.oper:active{
+    background-color: hsl(35, 100%, 75%);
+}  */
