@@ -44,25 +44,26 @@ To run and edit the files smoothly, you should install:
 
 ## 🚀 How to Run
 
-1. Clone or download this repository:
+**1. Clone or download this repository:**
    
-   @git clone https://github.com/NithinSangsi/JavaScriptBasics.git
+    git clone https://github.com/NithinSangsi/JavaScriptBasics.git
 
-2. Navigate to the folder:
+**2. Navigate to the folder:**
 
     cd javascript
 
-3. Open the folder in Visual Studio Code:
+**3. Open the folder in Visual Studio Code:**
 
-   code .
+     code .
 
-4. Open index.html and:
+**4. Open index.html and:**
 
-   Right-click → Open with Live Server (if installed)
+     Right-click → Open with Live Server (if installed)
 
-   Or open it manually in your browser
+     //Or open it manually in your browser
 
-5. Open Developer Tools (Ctrl + Shift + I) to view console outputs.
+**5. Open Developer Tools (Ctrl + Shift + I) to view console outputs.**
+
 
 
 ## <b>🧠 What's Inside (index.js)</b>
